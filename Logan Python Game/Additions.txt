@@ -1,0 +1,5 @@
+1. Add the k/d ratio
+2. Add win ratio, 2/3 4/6
+3. Larger Board options.
+4. Test prompt for starting and restarting
+5. Nice board
